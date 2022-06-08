@@ -42,13 +42,18 @@
             // 
             // btnSav
             // 
+            this.btnSav.BackColor = System.Drawing.Color.SkyBlue;
+            this.btnSav.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnSav.FlatAppearance.BorderSize = 0;
+            this.btnSav.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSav.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btnSav.Location = new System.Drawing.Point(306, 180);
             this.btnSav.Margin = new System.Windows.Forms.Padding(4);
             this.btnSav.Name = "btnSav";
             this.btnSav.Size = new System.Drawing.Size(102, 35);
             this.btnSav.TabIndex = 5;
             this.btnSav.Text = "Confirmer";
-            this.btnSav.UseVisualStyleBackColor = true;
+            this.btnSav.UseVisualStyleBackColor = false;
             // 
             // inpCod
             // 
@@ -98,6 +103,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.label3.Location = new System.Drawing.Point(29, 96);
@@ -109,14 +115,19 @@
             // 
             // btnBck
             // 
+            this.btnBck.BackColor = System.Drawing.Color.SkyBlue;
             this.btnBck.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnBck.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnBck.FlatAppearance.BorderSize = 0;
+            this.btnBck.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnBck.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btnBck.Location = new System.Drawing.Point(416, 180);
             this.btnBck.Margin = new System.Windows.Forms.Padding(4);
             this.btnBck.Name = "btnBck";
             this.btnBck.Size = new System.Drawing.Size(102, 35);
             this.btnBck.TabIndex = 11;
             this.btnBck.Text = "Retour";
-            this.btnBck.UseVisualStyleBackColor = true;
+            this.btnBck.UseVisualStyleBackColor = false;
             this.btnBck.Click += new System.EventHandler(this.button1_Click);
             // 
             // lblQuit

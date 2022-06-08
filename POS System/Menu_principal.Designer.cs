@@ -38,7 +38,7 @@
             this.tsProduit = new System.Windows.Forms.ToolStripButton();
             this.tsCommande = new System.Windows.Forms.ToolStripButton();
             this.tsRapport = new System.Windows.Forms.ToolStripButton();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.invtrBtn = new System.Windows.Forms.ToolStripButton();
             this.tsVente = new System.Windows.Forms.ToolStripButton();
             this.tsParametres = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
@@ -57,7 +57,7 @@
             this.tsProduit,
             this.tsCommande,
             this.tsRapport,
-            this.toolStripButton1,
+            this.invtrBtn,
             this.tsVente,
             this.tsParametres});
             this.toolStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.VerticalStackWithOverflow;
@@ -167,16 +167,17 @@
             this.tsRapport.TextDirection = System.Windows.Forms.ToolStripTextDirection.Horizontal;
             this.tsRapport.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
-            // toolStripButton1
+            // invtrBtn
             // 
-            this.toolStripButton1.AutoSize = false;
-            this.toolStripButton1.Image = global::POS_System.Properties.Resources._1486504352_checklist_clipboard_inventory_list_report_tasks_todo_81326;
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(105, 45);
-            this.toolStripButton1.Text = "Inventaire";
-            this.toolStripButton1.TextDirection = System.Windows.Forms.ToolStripTextDirection.Horizontal;
-            this.toolStripButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.invtrBtn.AutoSize = false;
+            this.invtrBtn.Image = global::POS_System.Properties.Resources._1486504352_checklist_clipboard_inventory_list_report_tasks_todo_81326;
+            this.invtrBtn.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.invtrBtn.Name = "invtrBtn";
+            this.invtrBtn.Size = new System.Drawing.Size(105, 45);
+            this.invtrBtn.Text = "Inventaire";
+            this.invtrBtn.TextDirection = System.Windows.Forms.ToolStripTextDirection.Horizontal;
+            this.invtrBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.invtrBtn.Click += new System.EventHandler(this.invtrBtn_Click);
             // 
             // tsVente
             // 
@@ -233,7 +234,7 @@
         private System.Windows.Forms.ToolStripButton tsProduit;
         private System.Windows.Forms.ToolStripButton tsCommande;
         private System.Windows.Forms.ToolStripButton tsRapport;
-        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripButton invtrBtn;
         private System.Windows.Forms.ToolStripButton tsVente;
         private System.Windows.Forms.ToolStripButton tsParametres;
     }

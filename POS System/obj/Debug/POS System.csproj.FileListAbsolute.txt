@@ -13,3 +13,5 @@ C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.pdb
 C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Inventaire.resources
 C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Login.resources
 C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.create_acnt.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.before.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.dashboard.resources

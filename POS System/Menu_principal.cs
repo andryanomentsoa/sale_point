@@ -41,5 +41,11 @@ namespace POS_System
             Login loginForm = new Login();
             loginForm.Show();
         }
+
+        private void invtrBtn_Click(object sender, EventArgs e)
+        {
+            Inventaire inventaire = new Inventaire();
+            inventaire.Show();
+        }
     }
 }
