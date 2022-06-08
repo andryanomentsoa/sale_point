@@ -73,6 +73,46 @@ namespace POS_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _211886_share_icon {
+            get {
+                object obj = ResourceManager.GetObject("211886_share_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3844432_magnifier_search_zoom_icon {
+            get {
+                object obj = ResourceManager.GetObject("3844432_magnifier_search_zoom_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8679985_share_line_icon {
+            get {
+                object obj = ResourceManager.GetObject("8679985_share_line_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap add_categories {
+            get {
+                object obj = ResourceManager.GetObject("add-categories", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap command_folder_20503 {
             get {
                 object obj = ResourceManager.GetObject("command_folder_20503", resourceCulture);
@@ -96,6 +136,26 @@ namespace POS_System.Properties {
         internal static System.Drawing.Bitmap communities {
             get {
                 object obj = ResourceManager.GetObject("communities", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap date_check_out {
+            get {
+                object obj = ResourceManager.GetObject("date-check-out", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap grocery_store {
+            get {
+                object obj = ResourceManager.GetObject("grocery-store", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -166,6 +226,16 @@ namespace POS_System.Properties {
         internal static System.Drawing.Bitmap password_3715 {
             get {
                 object obj = ResourceManager.GetObject("password_3715", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap qr_code_scan {
+            get {
+                object obj = ResourceManager.GetObject("qr-code-scan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

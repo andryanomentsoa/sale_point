@@ -16,5 +16,15 @@ namespace POS_System
         {
             InitializeComponent();
         }
+
+        private void lblExitProduit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
