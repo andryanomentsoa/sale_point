@@ -1,0 +1,15 @@
+C:\Users\Etudiant\source\repos\POS System\POS System\bin\Debug\POS System.exe.config
+C:\Users\Etudiant\source\repos\POS System\POS System\bin\Debug\POS System.exe
+C:\Users\Etudiant\source\repos\POS System\POS System\bin\Debug\POS System.pdb
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Commande.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.MenuMain.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Produit.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.exe
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS System.pdb
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Inventaire.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.Login.resources
+C:\Users\Etudiant\source\repos\POS System\POS System\obj\Debug\POS_System.create_acnt.resources
